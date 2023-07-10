@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.jsx",
   "type": "module",
-  "homepage": "https://coldpeach2.github.io/areej",
+  "homepage": ".",
   "scripts": {
     "dev": "vite",
     "build": "vite build ",
